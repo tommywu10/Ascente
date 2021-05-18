@@ -4,8 +4,9 @@ import Logo from '../Images/Logo.png'
 function Header() {
     return (
         <header>
-            <div>
-                <img src={Logo}/>
+            <div className="logo">
+                <img src={Logo} alt="Ascente logo"/>
+                <p>Ascente Chamber Orchestra</p> 
             </div>
             <div>
                 <ul>

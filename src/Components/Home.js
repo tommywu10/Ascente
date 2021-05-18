@@ -1,5 +1,4 @@
 import React from 'react'
-import '../Style/Home.scss'
 import Header from './Header'
 import Footer from './Footer'
 
