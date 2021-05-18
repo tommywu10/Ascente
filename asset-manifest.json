@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ascente/static/css/main.c2889319.chunk.css",
+    "main.js": "/ascente/static/js/main.aab77b09.chunk.js",
+    "main.js.map": "/ascente/static/js/main.aab77b09.chunk.js.map",
+    "runtime-main.js": "/ascente/static/js/runtime-main.c40cc926.js",
+    "runtime-main.js.map": "/ascente/static/js/runtime-main.c40cc926.js.map",
+    "static/js/2.3371ee93.chunk.js": "/ascente/static/js/2.3371ee93.chunk.js",
+    "static/js/2.3371ee93.chunk.js.map": "/ascente/static/js/2.3371ee93.chunk.js.map",
+    "static/js/3.f8831d85.chunk.js": "/ascente/static/js/3.f8831d85.chunk.js",
+    "static/js/3.f8831d85.chunk.js.map": "/ascente/static/js/3.f8831d85.chunk.js.map",
+    "index.html": "/ascente/index.html",
+    "static/css/main.c2889319.chunk.css.map": "/ascente/static/css/main.c2889319.chunk.css.map",
+    "static/js/2.3371ee93.chunk.js.LICENSE.txt": "/ascente/static/js/2.3371ee93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40cc926.js",
+    "static/js/2.3371ee93.chunk.js",
+    "static/css/main.c2889319.chunk.css",
+    "static/js/main.aab77b09.chunk.js"
+  ]
+}

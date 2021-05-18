@@ -1,0 +1,2 @@
+*{margin:0}header{height:175px;border:1px solid #000;-webkit-flex-direction:column;flex-direction:column;-webkit-justify-content:space-evenly;justify-content:space-evenly}header,header ul{display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center}header ul{-webkit-justify-content:center;justify-content:center;padding:0}header ul li{list-style:none;margin:0 20px}
+/*# sourceMappingURL=main.c2889319.chunk.css.map */
