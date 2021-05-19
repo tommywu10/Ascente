@@ -1,0 +1,26 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+    span {
+        color: red;
+    }
+    .footer-icons {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 50%;
+    }
+
+    #music-education {
+        color: rgb(99, 99, 99);
+        text-align: center;
+        padding: 30px;
+    }
+}

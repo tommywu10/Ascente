@@ -1,12 +1,11 @@
 import React from 'react'
-import Header from './Header'
-import Footer from './Footer'
 
 function Home() {
     return (
-        <div>
-            <Header />
-            <Footer />
+        <div className="home-container">
+            <div className="landing-page">
+                <p>Championing positive change through music</p>
+            </div>
         </div>
     )
 }

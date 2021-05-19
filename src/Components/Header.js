@@ -6,7 +6,6 @@ function Header() {
         <header>
             <div className="logo">
                 <img src={Logo} alt="Ascente logo"/>
-                <p>Ascente Chamber Orchestra</p> 
             </div>
             <div>
                 <ul>
